@@ -1,4 +1,6 @@
 Similar Image Search using FAISS and ResNet Feature Extraction
+the project implements find similar image in the dataset for the query image and  if the image can't be matched find the similar rating image  to the query image 
+
 This project implements a FAISS-based HNSW (Hierarchical Navigable Small World) indexing system for fast and efficient similar image search using ResNet-based feature extraction.
 It also incorporates PCA for dimensionality reduction and metadata analysis using image EXIF data.
 
